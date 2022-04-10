@@ -12,6 +12,7 @@ jobs:
           docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
           docker version
           apk add make
+          make prepare
           make build-push CI_NAME=circleci
 
 workflows:
