@@ -1,4 +1,4 @@
-# Docker on CI
+# Multi-Arch docker buld
 
 - Circle CI - [![CircleCI](https://circleci.com/gh/ozbillwang/multi-arch-docker-build.svg?style=svg)](https://circleci.com/gh/ozbillwang/multi-arch-docker-build)
 
