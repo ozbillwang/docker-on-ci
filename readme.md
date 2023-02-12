@@ -12,7 +12,7 @@ There are other two supported CICD in original upstream repo, but I would not wo
 
 - Gitlab CI - it can't nicely handle secrets with special charactors (https://gitlab.com/gitlab-org/gitlab/-/issues/196871). So it is no-go for me.
 
-- (Decommissioned) Travis CI - [![Build Status](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build.svg?branch=master)](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build) The CI changed their free model last year, I don't have enough free credit to run any docker build projects now
+- (Decommissioned) Travis CI - [![Build Status](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build.svg?branch=master)](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build) The CI changed their free model in year 2022, I don't have enough free credit to run any docker build projects now
 
 
 ### Reference
