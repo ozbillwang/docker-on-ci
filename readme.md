@@ -2,7 +2,7 @@
 
 - Circle CI - [![CircleCI](https://circleci.com/gh/ozbillwang/multi-arch-docker-build.svg?style=svg)](https://circleci.com/gh/ozbillwang/multi-arch-docker-build)
 
-- Travis CI - [![Build Status](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build.svg?branch=master)](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build)
+- (Decommissioned) Travis CI - [![Build Status](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build.svg?branch=master)](https://app.travis-ci.com/ozbillwang/multi-arch-docker-build) The CI changed their free model last year, I don't have enough free credit to run any docker build projects now
 
 
 Due to these free online pipelines keep changing with docker version, **these builds are triggered weekly** to confirm the stabilities.
